@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+biopython
+pillow
+reedsolo
+datasketch
+plotly
